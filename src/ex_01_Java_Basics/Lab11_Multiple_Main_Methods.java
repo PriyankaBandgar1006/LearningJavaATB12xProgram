@@ -10,6 +10,7 @@ public class Lab11_Multiple_Main_Methods {
 
         //This main method will not be recognised by Java
         System.out.println("Test"); //This will not get printed
+        // Because Method 'main()' does not have signature 'public static void main(String[])' and Parameter 'args' is never used
     }
 
     public static void main(String args) {
