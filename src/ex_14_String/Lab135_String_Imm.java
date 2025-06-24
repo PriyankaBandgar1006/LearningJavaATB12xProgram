@@ -1,4 +1,4 @@
-package String;
+package ex_14_String;
 
 public class Lab135_String_Imm {
     public static void main(String[] args) {

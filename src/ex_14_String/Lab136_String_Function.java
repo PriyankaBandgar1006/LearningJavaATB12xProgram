@@ -1,4 +1,4 @@
-package String;
+package ex_14_String;
 
 public class Lab136_String_Function {
     public static void main(String[] args) {

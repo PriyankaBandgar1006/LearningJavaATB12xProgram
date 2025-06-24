@@ -1,4 +1,4 @@
-package String;
+package ex_14_String;
 
 public class Lab133_String_Immutable {
     public static void main(String[] args) {
