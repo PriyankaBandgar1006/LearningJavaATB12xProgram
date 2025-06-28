@@ -1,6 +1,6 @@
 package Task;
 
-public class EvenOddusingTernary {
+public class Task2_EvenOddusingTernary {
 
     public static void main(String[] args) {
      int num=5;
